@@ -10,7 +10,7 @@ This is a tools which is for secure termux script with Marshal, Zlib, B64 any ma
 	  ls
       cd TOXIC-ENC
 	  ls
-      bash TOXIC-ENC.py
+      python TOXIC-ENC.py
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%A5%B0ANY+TERMINAL+CAN+RUN+THIS+SCRIPT%F0%9F%A5%B0)](https://git.io/typing-svg)
 
 
